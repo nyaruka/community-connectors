@@ -1,0 +1,16 @@
+{
+  "runtimeVersion": "V8",
+  "dataStudio": {
+    "name": "RapidPro",
+    "logoUrl": "https://raw.githubusercontent.com/googledatastudio/community-connectors/master/rapidpro/assets/logo.png",
+    "company": "Nyaruka",
+    "companyUrl": "https://nyaruka.com",
+    "addonUrl": "https://github.com/googledatastudio/community-connectors/blob/master/rapidpro/README.md",
+    "supportUrl": "https://github.com/googledatastudio/community-connectors/issues/new?title=RapidPro%20Connector%20Issue",
+    "shortDescription": "Connect to a RapidPro Account",
+    "description": "Fetch data from a RapidPro instance",
+    "sources": ["RAPIDPRO"],
+    "authType": ["NONE"],
+    "feeType": ["FREE"]
+  }
+}
